@@ -13,18 +13,22 @@ npm install --save beating-heart-emoji
 ## Usage
 
 ```jsx
-import React, { Component } from 'react'
+import React from 'react'
 
-import MyComponent from 'beating-heart-emoji'
+import { BeatingHeart } from 'beating-heart-emoji'
 import 'beating-heart-emoji/dist/index.css'
 
-class Example extends Component {
-  render() {
-    return <MyComponent />
-  }
+const App = () => {
+  return <BeatingHeart />
 }
+
+export default App
 ```
 
 ## License
 
 MIT © [pradeepradyumna](https://github.com/pradeepradyumna)
+
+## Keywords
+
+heart-emoji beating-heart-emoji
