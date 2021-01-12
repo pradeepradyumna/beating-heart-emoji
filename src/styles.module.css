@@ -1,9 +1,46 @@
 /* add css module styles here (optional) */
-
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .test {
   margin: 2em;
   padding: 0.5em;
   border: 2px solid #000;
   font-size: 2em;
   text-align: center;
+}
+
+.containerdiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.beatingheart {
+  display: inline-block;
+  position: relative;
+  animation: beatingheart 1.2s infinite cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+@keyframes beatingheart {
+  0% {
+    transform: scale(0.95);
+  }
+  5% {
+    transform: scale(1.1);
+  }
+  39% {
+    transform: scale(0.85);
+  }
+  45% {
+    transform: scale(1);
+  }
+  60% {
+    transform: scale(0.95);
+  }
+  100% {
+    transform: scale(0.9);
+  }
 }
