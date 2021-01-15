@@ -1,6 +1,6 @@
 # beating-heart-emoji
 
-> Made with create-react-library
+> This package helps you embed an emoji of a beating heart in your HTML element without writing any extra code for animations.
 
 [![NPM](https://img.shields.io/npm/v/beating-heart-emoji.svg)](https://www.npmjs.com/package/beating-heart-emoji) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) ![](https://komarev.com/ghpvc/?username=pradeepradyumna&style=flat-square)
 
