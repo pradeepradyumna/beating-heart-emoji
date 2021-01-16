@@ -35,4 +35,4 @@ MIT © [pradeepradyumna](https://github.com/pradeepradyumna)
 
 ## Keywords
 
-[heart-emoji](https://www.npmjs.com/search?q=keywords:heart-emoji) (beating-heart-emoji)[https://www.npmjs.com/search?q=keywords:beating-heart-emoji]
+[heart-emoji](https://www.npmjs.com/search?q=keywords:heart-emoji) [beating-heart-emoji](https://www.npmjs.com/search?q=keywords:beating-heart-emoji)
